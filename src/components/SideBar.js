@@ -53,7 +53,7 @@ function SideBar(){
                 <li className="nav-item">
                     <a className="nav-link" href="/UltimosProdUser">
                         <i className="fas fa-fw fa-table"></i>
-                        <span>Tables</span></a>
+                        <span>Ultimo Producto</span></a>
                 </li>
 
                 {/*<!-- Divider -->*/}

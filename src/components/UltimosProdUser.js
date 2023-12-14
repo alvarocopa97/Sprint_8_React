@@ -29,7 +29,7 @@ class UltimosProdUSer extends Component{
 					<div className="card shadow mb-4">
 						<div className="card-body">
 							<div className="table-responsive">
-							<h1 className="h3 mb-2 text-gray-800">Productos en la BD</h1>
+							<h1 className="h3 mb-2 text-gray-800">Ultimo Producto</h1>
 								<table className="table table-bordered" id="dataTable" width="100%" cellspacing="0">
 									<thead>
 										<tr>
